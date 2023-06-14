@@ -1,0 +1,559 @@
+disability_type,skills_one,skills_two,company,city,province,job_type,position,is_hearing_impairment,is_visual_impairment,is_physical_disability,is_all_types_of_disabilities,is_neurodiversity,is_mobility_impairment,is_speech_impairment,is_cognitive_disability,is_learning_disability
+Visual Impairment,Java,Python,TechSol Solutions,Jakarta,Jakarta Raya,Full-time,Software Engineer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Graphic Design,Adobe Photoshop,Artistic Creations,Bandung,West Java,Part-time,Graphic Designer,1,0,0,0,0,0,0,0,0
+Physical Disability,Mechanical Engineering,AutoCAD,MegaTech Industries,Surabaya,Jawa Timur,Full-time,Mechanical Engineer,0,0,1,0,0,0,0,0,0
+Cognitive Disability,Data Analysis,Microsoft Excel,Analytica Solutions,Yogyakarta,Special Region of Yogyakarta,Contract,Data Analyst,0,0,0,0,0,0,0,1,0
+Neurodiversity (Autism Spectrum Disorder),Software Testing,Bug Tracking,BugBusters,Semarang,Central Java,Full-time,Software Tester,0,0,0,0,1,0,0,0,0
+Speech Impairment,Customer Service,Communication,Supportive Services,Medan,Sumatera Utara,Full-time,Customer Service Representative,0,0,0,0,0,0,1,0,0
+Mobility Impairment,Data Science,Machine Learning,DataGenius,Makassar,South Sulawesi,Remote,Data Scientist,0,0,0,0,0,1,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Project Management,Team Leadership,Agile Solutions,Palembang,South Sumatra,Full-time,Project Manager,0,0,0,0,1,0,0,0,0
+Visual Impairment,Web Development,HTML,WebWizards,Denpasar,Bali,Part-time,Web Developer,0,1,0,0,0,0,0,0,0
+Physical Disability,Industrial Design,3D Modeling,Design Innovations,Malang,Jawa Timur,Contract,Industrial Designer,0,0,1,0,0,0,0,0,0
+Visual Impairment,Content Writing,Blogging,Content Masters,Bandung,West Java,Full-time,Content Writer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Video Editing,Adobe Premiere Pro,Visual Productions,Surabaya,Jawa Timur,Part-time,Video Editor,1,0,0,0,0,0,0,0,0
+Physical Disability,Civil Engineering,AutoCAD,InfraTech Solutions,Jakarta,Jakarta Raya,Full-time,Civil Engineer,0,0,1,0,0,0,0,0,0
+Cognitive Disability,Data Analysis,Statistical Modeling,Analytical Insights,Yogyakarta,Special Region of Yogyakarta,Full-time,Data Analyst,0,0,0,0,0,0,0,1,0
+Visual Impairment,No specific skills,,Inclusive Solutions,Jakarta,Jakarta Raya,Part-time,Office Assistant,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Web Design,HTML,WebCreators,Bandung,West Java,Full-time,Front-end Developer,1,0,0,0,0,0,0,0,0
+Mobility Impairment,Accounting,Financial Analysis,Finance Experts,Surabaya,Jawa Timur,Full-time,Financial Analyst,0,0,0,0,0,1,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Data Entry,Microsoft Excel,Data Solutions,Jakarta,Jakarta Raya,Part-time,Data Entry Operator,0,0,0,0,1,0,0,0,0
+Visual Impairment,Content Management,Social Media Marketing,Digital Marketing Pros,Semarang,Central Java,Full-time,Social Media Manager,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Copywriting,Proofreading,Creative Writers,Bandung,West Java,Freelance,Copywriter,1,0,0,0,0,0,0,0,0
+Physical Disability,Electrical Engineering,Circuit Design,ElectroTech Solutions,Medan,Sumatera Utara,Full-time,Electrical Engineer,0,0,1,0,0,0,0,0,0
+Cognitive Disability,Customer Support,Problem-solving,Support Center,Surabaya,Jawa Timur,Contract,Technical Support Specialist,0,0,0,0,0,0,0,1,0
+Visual Impairment,Web Development,PHP,WebGenius,Jakarta,Jakarta Raya,Remote,Full-stack Developer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Digital Marketing,SEO,Marketing Solutions,Yogyakarta,Special Region of Yogyakarta,Part-time,Digital Marketing Specialist,1,0,0,0,0,0,0,0,0
+Physical Disability,Architecture,AutoCAD,ArchiDesign,Bandung,West Java,Full-time,Architect,0,0,1,0,0,0,0,0,0
+Visual Impairment,Data Analysis,Python,DataTech Solutions,Jakarta,Jakarta Raya,Full-time,Data Analyst,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Content Writing,Social Media Management,Social Buzz,Bandung,West Java,Part-time,Content Specialist,1,0,0,0,0,0,0,0,0
+Physical Disability,Mechanical Engineering,AutoCAD,Product Design Pro,Surabaya,Jawa Timur,Full-time,Product Engineer,0,0,1,0,0,0,0,0,0
+Cognitive Disability,Accounting,Financial Planning,Finance Plus,Yogyakarta,Special Region of Yogyakarta,Contract,Financial Planner,0,0,0,0,0,0,0,1,0
+Neurodiversity (Autism Spectrum Disorder),Software Development,Java,CodeCrafters,Semarang,Central Java,Full-time,Software Developer,0,0,0,0,1,0,0,0,0
+Speech Impairment,Customer Service,Problem-solving,HelpLine Solutions,Medan,Sumatera Utara,Full-time,Customer Support Representative,0,0,0,0,0,0,1,0,0
+Mobility Impairment,Data Science,Statistical Analysis,StatGenius,Makassar,South Sulawesi,Remote,Statistical Analyst,0,0,0,0,0,1,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Project Management,Team Coordination,ProjectPro,Palembang,South Sumatra,Full-time,Project Coordinator,0,0,0,0,1,0,0,0,0
+Visual Impairment,Web Design,User Interface Design,WebMasters,Denpasar,Bali,Part-time,UI/UX Designer,0,1,0,0,0,0,0,0,0
+Physical Disability,Industrial Design,Product Prototyping,ProtoTech,Malang,Jawa Timur,Contract,Product Designer,0,0,1,0,0,0,0,0,0
+Visual Impairment,Content Writing,Blogging,WordSmiths,Bandung,West Java,Full-time,Content Creator,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Video Editing,Adobe After Effects,PostPro Studios,Surabaya,Jawa Timur,Part-time,Video Producer,1,0,0,0,0,0,0,0,0
+Physical Disability,Civil Engineering,Structural Analysis,StructuraTech,Jakarta,Jakarta Raya,Full-time,Structural Engineer,0,0,1,0,0,0,0,0,0
+Cognitive Disability,Data Analysis,Data Visualization,DataVisions,Yogyakarta,Special Region of Yogyakarta,Full-time,Data Visualization Specialist,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Web Design,Front-end Development,WebFront,Bandung,West Java,Full-time,Web Designer,1,0,0,0,0,0,0,0,0
+Mobility Impairment,Marketing Strategy,Market Research,Market Insights,Surabaya,Jawa Timur,Full-time,Marketing Analyst,0,0,0,0,0,1,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Data Entry,Data Management,DataMinds,Jakarta,Jakarta Raya,Part-time,Data Administrator,0,0,0,0,1,0,0,0,0
+Visual Impairment,Content Writing,Copy Editing,WordCrafters,Semarang,Central Java,Full-time,Editor,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Graphic Design,Brand Identity Design,VisualImpact,Bandung,West Java,Contract,Graphic Designer,1,0,0,0,0,0,0,0,0
+Physical Disability,Electrical Engineering,Power Systems Engineering,PowerTech,Medan,Sumatera Utara,Full-time,Power Systems Engineer,0,0,1,0,0,0,0,0,0
+Cognitive Disability,Customer Service,Communication,ServiceConnect,Surabaya,Jawa Timur,Contract,Customer Support Specialist,0,0,0,0,0,0,0,1,0
+Visual Impairment,Web Development,Front-end Development,WebWonders,Jakarta,Jakarta Raya,Remote,Front-end Developer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Digital Marketing,Content Marketing,DigiPro,Yogyakarta,Special Region of Yogyakarta,Part-time,Digital Marketer,1,0,0,0,0,0,0,0,0
+Physical Disability,Architecture,Interior Design,ArchInteriors,Bandung,West Java,Full-time,Interior Designer,0,0,1,0,0,0,0,0,0
+Visual Impairment,Data Analysis,R,Data Science Solutions,Jakarta,Jakarta Raya,Full-time,Data Scientist,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Content Writing,Social Media Marketing,Social Buzz,Bandung,West Java,Part-time,Content Specialist,1,0,0,0,0,0,0,0,0
+Physical Disability,Mechanical Engineering,CAD,DesignTech,Surabaya,Jawa Timur,Full-time,Design Engineer,0,0,1,0,0,0,0,0,0
+Cognitive Disability,Finance,Financial Analysis,FinServe,Yogyakarta,Special Region of Yogyakarta,Contract,Financial Analyst,0,0,0,0,0,0,0,1,0
+Neurodiversity (Autism Spectrum Disorder),Software Development,JavaScript,CodeCrafters,Semarang,Central Java,Full-time,Full-stack Developer,0,0,0,0,1,0,0,0,0
+Speech Impairment,Customer Service,Problem-solving,SupportLine,Medan,Sumatera Utara,Full-time,Customer Support Representative,0,0,0,0,0,0,1,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Project Management,Team Leadership,ProjectPro,Palembang,South Sumatra,Full-time,Project Manager,0,0,0,0,1,0,0,0,0
+Visual Impairment,Web Design,User Experience Design,WebMasters,Denpasar,Bali,Part-time,UI/UX Designer,0,1,0,0,0,0,0,0,0
+Physical Disability,Industrial Design,3D Modeling,ProtoTech,Malang,Jawa Timur,Contract,Industrial Designer,0,0,1,0,0,0,0,0,0
+Visual Impairment,Content Writing,Blogging,WordSmiths,Bandung,West Java,Full-time,Content Writer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Video Editing,Adobe Premiere Pro,VideoCrafters,Surabaya,Jawa Timur,Part-time,Video Editor,1,0,0,0,0,0,0,0,0
+Physical Disability,Civil Engineering,Structural Engineering,CivilPro,Jakarta,Jakarta Raya,Full-time,Civil Engineer,0,0,1,0,0,0,0,0,0
+Cognitive Disability,Data Analysis,Statistical Modeling,DataTech Insights,Yogyakarta,Special Region of Yogyakarta,Full-time,Data Analyst,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Web Design,Front-end Development,WebFront,Bandung,West Java,Full-time,Web Developer,1,0,0,0,0,0,0,0,0
+Mobility Impairment,Marketing Strategy,Market Research,MarketPro,Surabaya,Jawa Timur,Full-time,Marketing Analyst,0,0,0,0,0,1,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Data Entry,Data Management,DataMinds,Jakarta,Jakarta Raya,Part-time,Data Entry Operator,0,0,0,0,1,0,0,0,0
+Visual Impairment,Content Writing,Copyediting,WordCrafters,Semarang,Central Java,Full-time,Editor,0,1,0,0,0,0,0,0,0
+Physical Disability,Electrical Engineering,Power Systems Engineering,PowerTech,Medan,Sumatera Utara,Full-time,Electrical Engineer,0,0,1,0,0,0,0,0,0
+Cognitive Disability,Customer Service,Communication,SupportConnect,Surabaya,Jawa Timur,Contract,Customer Service Representative,0,0,0,0,0,0,0,1,0
+Visual Impairment,Web Development,Front-end Development,WebWonders,Jakarta,Jakarta Raya,Remote,Web Developer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Digital Marketing,Content Creation,DigiPro,Yogyakarta,Special Region of Yogyakarta,Part-time,Digital Marketer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Video Editing,Adobe Premiere Pro,PostPro Studios,Surabaya,Jawa Timur,Part-time,Video Editor,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Web Design,CSS,WebCreators,Bandung,West Java,Full-time,Front-end Developer,1,0,0,0,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Project Coordination,Time Management,CoordiPro,Surabaya,Jawa Timur,Full-time,Project Coordinator,0,0,0,0,1,0,0,0,0
+Visual Impairment,Content Editing,Proofreading,WordCrafters,Semarang,Central Java,Freelance,Editor,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Video Production,Adobe Premiere Pro,Motion Studios,Jakarta,Jakarta Raya,Part-time,Video Producer,1,0,0,0,0,0,0,0,0
+Mobility Impairment,Data Analysis,Statistical Modeling,Analytica Insights,Yogyakarta,Special Region of Yogyakarta,Full-time,Data Scientist,0,0,0,0,0,1,0,0,0
+Cognitive Disability,Administrative Support,Data Entry,AdminAssist,Medan,Sumatera Utara,Full-time,Administrative Assistant,0,0,0,0,0,0,0,1,0
+Visual Impairment,Web Design,User Experience (UX) Design,UX Innovations,Bandung,West Java,Contract,UX Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Content Writing,Blogging,BlogMasters,Surabaya,Jawa Timur,Freelance,Blogger,1,0,0,0,0,0,0,0,0
+Physical Disability,Massage,,Pinhome Home Service,Jakarta Utara,Jakarta Raya,Full time,Massage Services,0,0,1,0,0,0,0,0,0
+Speech Impairment,Massage,,Pinhome Home Service,Jakarta Utara,Jakarta Raya,Full time,Massage Services,0,0,0,0,0,0,1,0,0
+Visual Impairment,Massage,,Pinhome Home Service,Jakarta Utara,Jakarta Raya,Full time,Massage Services,0,1,0,0,0,0,0,0,0
+Physical Disability,Car Wash,,Pinhome Home Service,Jakarta Utara,Jakarta Raya,Full time,Car wash services,0,0,1,0,0,0,0,0,0
+Speech Impairment,Car Wash,,Pinhome Home Service,Jakarta Utara,Jakarta Raya,Full time,Car wash services,0,0,0,0,0,0,1,0,0
+Visual Impairment,Car Wash,,Pinhome Home Service,Jakarta Utara,Jakarta Raya,Full time,Car wash services,0,1,0,0,0,0,0,0,0
+Physical Disability,Wordpress,Canva,Jogja 75 Tour and Travel,Bantul,Special Region of Yogyakarta,Full time,Creator Content,0,0,1,0,0,0,0,0,0
+Physical Disability,Tiktok,Viva,Jogja 75 Tour and Travel,Bantul,Special Region of Yogyakarta,Full time,Creator Content,0,0,1,0,0,0,0,0,0
+Hearing Impairment,No spesific skills,,My Gelato Tugu,Yogyakarta,Special Region of Yogyakarta,Internships,Cleaning Service,1,0,0,0,0,0,0,0,0
+Speech Impairment,No spesific skills,,My Gelato Tugu,Yogyakarta,Special Region of Yogyakarta,Internships,Cleaning Service,0,0,0,0,0,0,1,0,0
+Physical Disability,No spesific skills,,Vitbloom Birdnest,Surabaya,Jawa Timur,Full time,Bird's Nest Employee,0,0,1,0,0,0,0,0,0
+Hearing Impairment,No spesific skills,,Vitbloom Birdnest,Surabaya,Jawa Timur,Full time,Bird's Nest Employee,1,0,0,0,0,0,0,0,0
+Speech Impairment,No spesific skills,,Vitbloom Birdnest,Surabaya,Jawa Timur,Full time,Bird's Nest Employee,0,0,0,0,0,0,1,0,0
+Physical Disability,English,,International Labour Organization,Jakarta Timur,Jakarta Raya,Internships,Companies and Stakeholders Engagement,0,0,1,0,0,0,0,0,0
+Hearing Impairment,English,,International Labour Organization,Jakarta Timur,Jakarta Raya,Internships,Companies and Stakeholders Engagement,1,0,0,0,0,0,0,0,0
+Speech Impairment,English,,International Labour Organization,Jakarta Timur,Jakarta Raya,Internships,Companies and Stakeholders Engagement,0,0,0,0,0,0,1,0,0
+Visual Impairment,English,,International Labour Organization,Jakarta Timur,Jakarta Raya,Internships,Companies and Stakeholders Engagement,0,1,0,0,0,0,0,0,0
+Physical Disability,Computer Basics,,Pusat Undangan Toentang (UNSO),Semarang,Central Java,Full time,Computer design,0,0,1,0,0,0,0,0,0
+Physical Disability,Photo editing software,Video editing software,PT. Mahayasa Teknologi Nusantara,Denpasar,Bali,Internships,Creator Content,0,0,1,0,0,0,0,0,0
+Hearing Impairment,Photo editing software,Video editing software,PT. Mahayasa Teknologi Nusantara,Denpasar,Bali,Internships,Creator Content,1,0,0,0,0,0,0,0,0
+Speech Impairment,Photo editing software,Video editing software,PT. Mahayasa Teknologi Nusantara,Denpasar,Bali,Internships,Creator Content,0,0,0,0,0,0,1,0,0
+Physical Disability,No spesific skills,,PT Informatika Nusantara,Jakarta Selatan,Jakarta Raya,Full time,Contact Center Agents,0,0,1,0,0,0,0,0,0
+Physical Disability,No spesific skills,,PT Aneka Petroindo Raya,"Malang, Surabaya, Batu, Gresik",Jawa Timur,Full time,Gas Station Operator,0,0,1,0,0,0,0,0,0
+Physical Disability,Written communication skills,Verbal communication skills,PT Borwita Citra Prima,Yogyakarta,Special Region of Yogyakarta,Full time,Telesales,0,0,1,0,0,0,0,0,0
+Visual Impairment,Written communication skills,Verbal communication skills,PT Borwita Citra Prima,Yogyakarta,Special Region of Yogyakarta,Full time,Telesales,0,1,0,0,0,0,0,0,0
+All Types of Disabilities,Adobe Premiere,Capcut,Jembatan Bahasa,Canggu,Bali,Full time,Multimedia Intern,0,0,0,1,0,0,0,0,0
+All Types of Disabilities,Adobe Photoshop,Illustrator,Jembatan Bahasa,Canggu,Bali,Full time,Multimedia Intern,0,0,0,1,0,0,0,0,0
+Physical Disability,Ms Office/Word,Cashier Operations,PT Klik Eat Indonesia (foodspot),Jakarta Selatan,Jakarta Raya,Full time,Waitress,0,0,1,0,0,0,0,0,0
+Physical Disability,No spesific skills,,"PT Sumber Alfaria Trijaya, Tbk",Batam,Riau islands,Full time,Crew Store,0,0,1,0,0,0,0,0,0
+Physical Disability,No spesific skills,,Plataran Canggu Bali Resort dan Spa,Canggu,Bali,Full time,Sales,0,0,1,0,0,0,0,0,0
+Physical Disability,No spesific skills,,Patricia Modiste,Solo,Central Java,Full time,Seamstress,0,0,1,0,0,0,0,0,0
+Hearing Impairment,No spesific skills,,Patricia Modiste,Solo,Central Java,Full time,Seamstress,1,0,0,0,0,0,0,0,0
+Speech Impairment,No spesific skills,,Patricia Modiste,Solo,Central Java,Full time,Seamstress,0,0,0,0,0,0,1,0,0
+Cognitive Disability,No spesific skills,,Patricia Modiste,Solo,Central Java,Full time,Seamstress,0,0,0,0,0,0,0,1,0
+Physical Disability,No spesific skills,,PT. GOS Indoraya,Jakarta Selatan,Jakarta Raya,Full time,Administration,0,0,1,0,0,0,0,0,0
+Physical Disability,Adobe After Effects,Adobe Premiere,Makassar Infoku,Makassar,South Sulawesi,Full time,Video Editor & Social Media Admin,0,0,1,0,0,0,0,0,0
+Hearing Impairment,Adobe After Effects,Adobe Premiere,Makassar Infoku,Makassar,South Sulawesi,Full time,Video Editor & Social Media Admin,1,0,0,0,0,0,0,0,0
+Speech Impairment,Adobe After Effects,Adobe Premiere,Makassar Infoku,Makassar,South Sulawesi,Full time,Video Editor & Social Media Admin,0,0,0,0,0,0,1,0,0
+Visual Impairment,Adobe After Effects,Adobe Premiere,Makassar Infoku,Makassar,South Sulawesi,Full time,Video Editor & Social Media Admin,0,1,0,0,0,0,0,0,0
+Cognitive Disability,Adobe After Effects,Adobe Premiere,Makassar Infoku,Makassar,South Sulawesi,Full time,Video Editor & Social Media Admin,0,0,0,0,0,0,0,1,0
+Physical Disability,No spesific skills,,Kandang.in,Yogyakarta,Special Region of Yogyakarta,Internships,Paid Bisdev Intern,0,0,1,0,0,0,0,0,0
+Visual Impairment,No spesific skills,,Kandang.in,Yogyakarta,Special Region of Yogyakarta,Internships,Paid Bisdev Intern,0,1,0,0,0,0,0,0,0
+Physical Disability,No spesific skills,,PT Indofood CBP Sukses Makmur Tbk,Padalarang,West Bandung,Internships,Production,0,0,1,0,0,0,0,0,0
+Hearing Impairment,Processing food offerings,Prepare cooking ingredients,Digniti Aku Nusantara,Jakarta,Jakarta Raya,Full time,Cook Helper,1,0,0,0,0,0,0,0,0
+All Types of Disabilities,No spesific skills,,PT. Pegadaian,Jakarta,Jakarta Raya,Full time,Accounting,0,0,0,1,0,0,0,0,0
+All Types of Disabilities,Computer basics,,PT Daya Lima Recruitment,Bangkalan,Jawa Timur,Full time,IT Security Officer,0,0,0,1,0,0,0,0,0
+Physical Disability,Communicate well,,PT Mitracomm Ekasarana,Jakarta,Jakarta Raya,Full time,Call Center Agents,0,0,1,0,0,0,0,0,0
+All Types of Disabilities,Microsoft Office,"Mastering Balinese, Indonesian, and English language",Puspadi Bali,Denpasar,Bali,Full time,Administrator Program,0,0,0,1,0,0,0,0,0
+All Types of Disabilities,Good Presentation,Interpersonal,Puspadi Bali,Denpasar,Bali,Full time,Administrator Program,0,0,0,1,0,0,0,0,0
+Physical Disability,Teamwork,Diligent,"PT Sumber Alfaria Trijaya, Tbk",Bekasi,West Java,Full time,Crew Store,0,0,1,0,0,0,0,0,0
+Speech Impairment,Teamwork,Diligent,"PT Sumber Alfaria Trijaya, Tbk",Bekasi,West Java,Full time,Crew Store,0,0,0,0,0,0,1,0,0
+Physical Disability,Responsible,Honest,"PT Sumber Alfaria Trijaya, Tbk",Bekasi,West Java,Full time,Crew Store,0,0,1,0,0,0,0,0,0
+Speech Impairment,Responsible,Honest,"PT Sumber Alfaria Trijaya, Tbk",Bekasi,West Java,Full time,Crew Store,0,0,0,0,0,0,1,0,0
+All Types of Disabilities,Mastering MS Office,,PT Federal International Finance,Denpasar,Bali,Full time,Admin Staff,0,0,0,1,0,0,0,0,0
+All Types of Disabilities,Mastering Computers,MS Office,Happy Trails Sanur,Denpasar,Bali,Full time,Accounting Officer,0,0,0,1,0,0,0,0,0
+All Types of Disabilities,No spesific skills,,PT YOUNG TREE INDUSTRIES,Gumpang,Central Java,Full time,Cleaning Service,0,0,0,1,0,0,0,0,0
+All Types of Disabilities,No spesific skills,,PT Pan Brothers,Boyolali,Central Java,Full time,Management Development,0,0,0,1,0,0,0,0,0
+All Types of Disabilities,No spesific skills,,PT Midi Utama Indonesia,Karanganyar,Sukoharjo,Full time,Crew Store,0,0,0,1,0,0,0,0,0
+All Types of Disabilities,No spesific skills,,PT Pan Brothers,Boyolali,Central Java,Full time,Production operator,0,0,0,1,0,0,0,0,0
+Hearing Impairment,No spesific skills,,BBI Group,Tugu,Central Java,Full time,Sewing Training,1,0,0,0,0,0,0,0,0
+All Types of Disabilities,No spesific skills,,Citra Mas Intimates,Karanganyar,Sukoharjo,Full time,Sewing Machine Operators,0,0,0,1,0,0,0,0,0
+All Types of Disabilities,No spesific skills,,PT. Batang Apparel Indonesia,Kab Batang,Central Java,Full time,Production operator,0,0,0,1,0,0,0,0,0
+All Types of Disabilities,No spesific skills,,PT Tupai Adyamas,Boyolali,Central Java,Full time,Sewing Operators,0,0,0,1,0,0,0,0,0
+All Types of Disabilities,No spesific skills,,PT Semangat Antar Sukses,Bekasi,West Java,Full time,Courier,0,0,0,1,0,0,0,0,0
+Hearing Impairment,Help prepare raw materials,Clean cookware,DignityKu,Jakarta Selatan,Jakarta Raya,Full time,Kitchen Helper,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Clean raw material storage areas,Receive and store raw materials,DignityKu,Jakarta Selatan,Jakarta Raya,Full time,Kitchen Helper,1,0,0,0,0,0,0,0,0
+All Types of Disabilities,"Awareness of K3 Able to use Excel formulas well, Have good skills, Have accuracy good, Have good","Microsoft Office (Word, Excel, PowerPoint)",PT Adis Dimension Footwear,Tangerang,West Java,Full time,Finance & Accounting,0,0,0,1,0,0,0,0,0
+All Types of Disabilities,English Language,Communication,PT Adis Dimension Footwear,Tangerang,West Java,Full time,Finance & Accounting,0,0,0,1,0,0,0,0,0
+All Types of Disabilities,Cooperation,Precision,PT Adis Dimension Footwear,Tangerang,West Java,Full time,Finance & Accounting,0,0,0,1,0,0,0,0,0
+Physical Disability,Sewing(understands patterns),Teamwork,Oemah Batik Zamora,Bantul,Special Region of Yogyakarta,Full time,Tailor and Patternmaker,0,0,1,0,0,0,0,0,0
+Hearing Impairment,Sewing(understands patterns),Teamwork,Oemah Batik Zamora,Bantul,Special Region of Yogyakarta,Full time,Tailor and Patternmaker,1,0,0,0,0,0,0,0,0
+Speech Impairment,Sewing(understands patterns),Teamwork,Oemah Batik Zamora,Bantul,Special Region of Yogyakarta,Full time,Tailor and Patternmaker,0,0,0,0,0,0,1,0,0
+Visual Impairment,Sewing(understands patterns),Teamwork,Oemah Batik Zamora,Bantul,Special Region of Yogyakarta,Full time,Tailor and Patternmaker,0,1,0,0,0,0,0,0,0
+Physical Disability,Copywriting,Video editing,Ruveetex,Bogor,Central Java,Full time,Video Editor,0,0,1,0,0,0,0,0,0
+Physical Disability,Photo editing software,Content maker,Ruveetex,Bogor,Central Java,Full time,Video Editor,0,0,1,0,0,0,0,0,0
+Physical Disability,Copywriting,Video editing,Ruveetex,Bogor,Central Java,Full time,Content Creator,0,0,1,0,0,0,0,0,0
+Physical Disability,Photo editing software,Content maker,Ruveetex,Bogor,Central Java,Full time,Content Creator,0,0,1,0,0,0,0,0,0
+Physical Disability,Copywriting,Video editing,Ruveetex,Bogor,Central Java,Full time,Graphic Designer,0,0,1,0,0,0,0,0,0
+Physical Disability,Photo editing software,Content maker,Ruveetex,Bogor,Central Java,Full time,Graphic Designer,0,0,1,0,0,0,0,0,0
+Physical Disability,Understand Asian cuisine,Culinary field,Senang Katering,Banten,Central Java,Full time,Cook Helper,0,0,1,0,0,0,0,0,0
+Hearing Impairment,Understand Asian cuisine,Culinary field,Senang Katering,Banten,Central Java,Full time,Cook Helper,1,0,0,0,0,0,0,0,0
+Speech Impairment,Understand Asian cuisine,Culinary field,Senang Katering,Banten,Central Java,Full time,Cook Helper,0,0,0,0,0,0,1,0,0
+Visual Impairment,Understand Asian cuisine,Culinary field,Senang Katering,Banten,Central Java,Full time,Cook Helper,0,1,0,0,0,0,0,0,0
+All Types of Disabilities,Ms Office/Word,Teamwork,PT Federal International Finance,Denpasar,Bali,Full time,Staf Admin,0,0,0,1,0,0,0,0,0
+All Types of Disabilities,Good Presentation,Good attitudes,PT Federal International Finance,Denpasar,Bali,Full time,Staf Admin,0,0,0,1,0,0,0,0,0
+All Types of Disabilities,Teamwork,Like challenging task,Alfamidi,Bekasi,West Java,Full time,Crew Store,0,0,0,1,0,0,0,0,0
+All Types of Disabilities,Ms Office/Word,Good Presentation,PUSPADI Bali,Denpasar,Bali,Full time,Program Administrator,0,0,0,1,0,0,0,0,0
+All Types of Disabilities,Teamwork,"Mastering Balinese, Indonesian, and English language",PUSPADI Bali,Denpasar,Bali,Full time,Program Administrator,0,0,0,1,0,0,0,0,0
+Visual Impairment,Microsoft Office,Microsoft Excel,PT. ABC,Jakarta,Jakarta Raya,Full-Time,Administrative Assistant,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Programming,Python,PT. XYZ,Bandung,West Java,Part-Time,Software Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Graphic Design,Adobe Photoshop,PT. DEF,Surabaya,Jawa Timur,Full-Time,Graphic Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Project Management,No Specific Skill,PT. GHI,Medan,Sumatera Utara,Freelance,Project Manager,0,0,0,0,0,0,0,0,1
+Visual Impairment,Sales,No Specific Skill,PT. JKL,Semarang,Central Java,Full-Time,Sales Representative,0,1,0,0,0,0,0,0,0
+Physical Disability,Digital Marketing,SEO,PT. MNO,Bali,Bali,Part-Time,Marketing Specialist,0,0,1,0,0,0,0,0,0
+Learning Disability,Data Analysis,SQL,PT. PQR,Makassar,South Sulawesi,Full-Time,Data Analyst,0,0,0,0,0,0,0,0,1
+Visual Impairment,Customer Service,No Specific Skill,PT. STU,Palembang,South Sumatra,Freelance,Customer Service Representative,0,1,0,0,0,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Programming,SDLC,PT. ABC,Jakarta,Jakarta Raya,Full-Time,Software Developer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Data Analysis,Python,PT. DEF,Bandung,West Java,Part-Time,Data Analyst,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Graphic Design,Adobe Illustrator,PT. GHI,Surabaya,Jawa Timur,Full-Time,Graphic Designer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),No Specific Skill,Problem Solving,PT. JKL,Medan,Sumatera Utara,Freelance,Customer Service Representative,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Digital Marketing,Marketing Strategy,PT. MNO,Semarang,Central Java,Full-Time,Marketing Specialist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Project Management,Project Planning,PT. PQR,Bali,Bali,Part-Time,Project Manager,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Microsoft Office,Calendar Management,PT. STU,Makassar,South Sulawesi,Full-Time,Administrative Assistant,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),No Specific Skill,Problem Solving,PT. VWX,Palembang,South Sumatra,Freelance,Data Entry Clerk,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Programming,Data Mining,PT. ABC,Jakarta,Jakarta Raya,Full-Time,Software Developer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Data Analysis,Color Theory,PT. DEF,Bandung,West Java,Part-Time,Data Analyst,0,0,0,0,1,0,0,0,0
+Visual Impairment,Graphic Design,Time Management,PT. GHI,Surabaya,Jawa Timur,Full-Time,Graphic Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,No Specific Skill,Analytics,PT. JKL,Medan,Sumatera Utara,Freelance,Customer Service Representative,1,0,0,0,0,0,0,0,0
+Physical Disability,Digital Marketing,Communication Skills,PT. MNO,Semarang,Central Java,Full-Time,Marketing Specialist,0,0,1,0,0,0,0,0,0
+Learning Disability,Project Management,Attention to Detail,PT. PQR,Bali,Bali,Part-Time,Project Manager,0,0,0,0,0,0,0,0,1
+Neurodiversity (Autism Spectrum Disorder),Microsoft Office,Time Management,PT. STU,Makassar,South Sulawesi,Full-Time,Administrative Assistant,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),No Specific Skill,Web Frameworks,PT. VWX,Palembang,South Sumatra,Freelance,Data Entry Clerk,0,0,0,0,1,0,0,0,0
+Visual Impairment,Programming,R Programming,PT. YZ,Yogyakarta,Special Region of Yogyakarta,Full-Time,Web Developer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Data Analysis,Visual Design,PT. AAA,Denpasar,Bali,Part-Time,Data Scientist,1,0,0,0,0,0,0,0,0
+Physical Disability,Graphic Design,Google Analytics,PT. BBB,Batam,Riau Islands,Freelance,UI/UX Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Digital Marketing,SEO,PT. CCC,Pekanbaru,Riau,Full-Time,Digital Marketer,0,0,0,0,0,0,0,0,1
+Neurodiversity (Dyslexia),Content Creation,Storytelling,PT. DDD,Bandar Lampung,Lampung,Part-Time,Content Creator,0,0,0,0,1,0,0,0,0
+Neurodiversity (Dyscalculia),Sales,Customer Relationship Management,PT. EEE,Padang,West Sumatra,Full-Time,Sales Associate,0,0,0,0,1,0,0,0,0
+Visual Impairment,No Specific Skill,Patience,PT. FFF,Mataram,West Nusa Tenggara,Freelance,Customer Support,0,1,0,0,0,0,0,0,0
+Physical Disability,Programming,Responsive Design,PT. GGG,Pontianak,West Kalimantan,Full-Time,Frontend Developer,0,0,1,0,0,0,0,0,0
+Neurodiversity (Dyspraxia),Data Analysis,Problem Solving,PT. HHH,Balikpapan,East Kalimantan,Part-Time,Business Analyst,0,0,0,0,1,0,0,0,0
+Hearing Impairment,Graphic Design,Layout Design,PT. III,Manado,North Sulawesi,Full-Time,Visual Designer,1,0,0,0,0,0,0,0,0
+Learning Disability,Project Management,Documentation,PT. JJJ,Kupang,East Nusa Tenggara,Freelance,Project Coordinator,0,0,0,0,0,0,0,0,1
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Digital Marketing,Google Analytics,PT. KKK,Palangka Raya,Central Kalimantan,Full-Time,SEO Specialist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Microsoft Office,Communication Skills,PT. LLL,Jayapura,Papua,Part-Time,Office Administrator,0,0,0,0,1,0,0,0,0
+Neurodiversity (Dysgraphia),No Specific Skill,Keyboarding Skills,PT. MMM,Sorong,West Papua,Freelance,Data Entry Clerk,0,0,0,0,1,0,0,0,0
+Visual Impairment,Content Creation,Research,PT. NNN,Banda Aceh,Aceh,Full-Time,Content Writer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Sales,Prospecting,PT. OOO,Banjarmasin,South Kalimantan,Part-Time,Sales Representative,1,0,0,0,0,0,0,0,0
+Physical Disability,No Specific Skill,Administrative Support,PT. PPP,Ambon,Maluku,Freelance,Virtual Assistant,0,0,1,0,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Programming,Software Development Life Cycle,PT. QQQ,Mamuju,West Sulawesi,Full-Time,Software Engineer,0,0,0,0,1,0,0,0,0
+Learning Disability,Data Analysis,Attention to Detail,PT. RRR,Samarinda,East Kalimantan,Part-Time,Data Coordinator,0,0,0,0,0,0,0,0,1
+Neurodiversity (Autism Spectrum Disorder),Graphic Design,Typography,PT. SSS,Ternate,North Maluku,Full-Time,Visual Illustrator,0,0,0,0,1,0,0,0,0
+Neurodiversity (Dyslexia),Project Management,Task Management,PT. TTT,Tarakan,North Kalimantan,Freelance,Project Planner,0,0,0,0,1,0,0,0,0
+Visual Impairment,Digital Marketing,Analytics,PT. UUU,Bengkulu,Bengkulu,Full-Time,Social Media Manager,0,1,0,0,0,0,0,0,0
+Neurodiversity (Dyscalculia),Microsoft Office,Organization,PT. VVV,Gorontalo,Gorontalo,Part-Time,Administrative Coordinator,0,0,0,0,1,0,0,0,0
+Physical Disability,No Specific Skill,Keyboarding Skills,PT. WWW,Palu,Central Sulawesi,Freelance,Data Entry Operator,0,0,1,0,0,0,0,0,0
+Neurodiversity (Dyspraxia),Content Creation,SEO,PT. XXX,Lhokseumawe,Aceh,Full-Time,Content Editor,0,0,0,0,1,0,0,0,0
+Neurodiversity (Dysgraphia),Sales,Organization,PT. YYY,Palopo,South Sulawesi,Part-Time,Sales Assistant,0,0,0,0,1,0,0,0,0
+Visual Impairment,No Specific Skill,Time Management,PT. ZZZ,Tanjung Pinang,Riau Islands,Freelance,Virtual Receptionist,0,1,0,0,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Programming,Problem Solving,PT. AAAA,Manado,North Sulawesi,Full-Time,Software Architect,0,0,0,0,1,0,0,0,0
+Learning Disability,Data Analysis,Attention to Detail,PT. BBBB,Pangkal Pinang,Bangka Belitung,Part-Time,Data Quality Analyst,0,0,0,0,0,0,0,0,1
+Hearing Impairment,Graphic Design,Usability Testing,PT. CCCC,Tanjung Balai,Sumatera Utara,Full-Time,UI/UX Designer,1,0,0,0,0,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Project Management,Communication Skills,PT. DDDD,Merauke,Papua,Freelance,Project Assistant,0,0,0,0,1,0,0,0,0
+Neurodiversity (Dyslexia),Digital Marketing,Campaign Optimization,PT. EEEE,Tanjung Selor,North Kalimantan,Full-Time,Social Media Strategist,0,0,0,0,1,0,0,0,0
+Physical Disability,Microsoft Office,Communication Skills,PT. FFFF,Langsa,Aceh,Part-Time,Office Assistant,0,0,1,0,0,0,0,0,0
+Neurodiversity (Dyscalculia),No Specific Skill,Data Accuracy,PT. GGGG,Bireuen,Aceh,Freelance,Data Verification Specialist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Content Creation,SEO,PT. HHHH,Padang Sidempuan,Sumatera Utara,Full-Time,Content Strategist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Sales,Order Management,PT. IIII,Bima,West Nusa Tenggara,Part-Time,Sales Coordinator,0,0,0,0,1,0,0,0,0
+Visual Impairment,No Specific Skill,Communication Skills,PT. JJJJ,Sintang,West Kalimantan,Freelance,Virtual Assistant,0,1,0,0,0,0,0,0,0
+Physical Disability,Programming,Python,PT. KKKK,Bontang,East Kalimantan,Full-Time,Full Stack Developer,0,0,1,0,0,0,0,0,0
+Neurodiversity (Dyspraxia),Data Analysis,Statistical Analysis,PT. LLLL,Sorong,West Papua,Part-Time,Data Scientist,0,0,0,0,1,0,0,0,0
+Hearing Impairment,Graphic Design,Typography,PT. MMMM,Tanjung Pinang,Riau Islands,Full-Time,Graphic Artist,1,0,0,0,0,0,0,0,0
+Learning Disability,Project Management,Task Management,PT. NNNN,Samarinda,East Kalimantan,Freelance,Project Coordinator,0,0,0,0,0,0,0,0,1
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Digital Marketing,Market Research,PT. OOOO,Denpasar,Bali,Full-Time,Marketing Manager,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Microsoft Office,Calendar Management,PT. PPPP,Kupang,East Nusa Tenggara,Part-Time,Administrative Coordinator,0,0,0,0,1,0,0,0,0
+Neurodiversity (Dysgraphia),No Specific Skill,Accuracy,PT. QQQQ,Bau-Bau,South East Sulawesi,Freelance,Data Entry Operator,0,0,0,0,1,0,0,0,0
+Visual Impairment,Content Creation,Editing,PT. RRRR,Majalengka,West Java,Full-Time,Content Writer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Sales,Negotiation,PT. SSSS,Sukabumi,West Java,Part-Time,Sales Representative,1,0,0,0,0,0,0,0,0
+Physical Disability,No Specific Skill,Communication Skills,PT. TTTT,Klaten,Central Java,Freelance,Virtual Assistant,0,0,1,0,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Programming,Python,PT. UUUU,Sragen,Central Java,Full-Time,Software Engineer,0,0,0,0,1,0,0,0,0
+Learning Disability,Data Analysis,Python,PT. VVVV,Boyolali,Central Java,Part-Time,Data Analyst,0,0,0,0,0,0,0,0,1
+Neurodiversity (Autism Spectrum Disorder),Graphic Design,Adobe Illustrator,PT. WWWW,Wonogiri,Central Java,Full-Time,Graphic Designer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Dyslexia),Project Management,Task Management,PT. XXXX,Karanganyar,Central Java,Freelance,Project Coordinator,0,0,0,0,1,0,0,0,0
+Visual Impairment,Digital Marketing,SEM,PT. YYYY,Purwokerto,Central Java,Full-Time,Digital Marketer,0,1,0,0,0,0,0,0,0
+Neurodiversity (Dyscalculia),Microsoft Office,Calendar Management,PT. ZZZZ,Banyumas,Central Java,Part-Time,Administrative Assistant,0,0,0,0,1,0,0,0,0
+Physical Disability,No Specific Skill,Accuracy,PT. AAAAA,Cilacap,Central Java,Freelance,Data Entry Operator,0,0,1,0,0,0,0,0,0
+Neurodiversity (Dyspraxia),Content Creation,Copywriting,PT. VVVVV,Cirebon,West Java,Full-Time,Content Creator,0,0,0,0,1,0,0,0,0
+Neurodiversity (Dysgraphia),Sales,Product Knowledge,PT. WWWW,Bandung,West Java,Part-Time,Sales Assistant,0,0,0,0,1,0,0,0,0
+Visual Impairment,No Specific Skill,Organization,PT. XXXXX,Bogor,West Java,Freelance,Virtual Receptionist,0,1,0,0,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Programming,Python,PT. YYYYY,Depok,West Java,Full-Time,Software Developer,0,0,0,0,1,0,0,0,0
+Learning Disability,Data Analysis,Python,PT. ZZZZZ,Tangerang,Banten,Part-Time,Data Analyst,0,0,0,0,0,0,0,0,1
+Hearing Impairment,Graphic Design,Adobe Illustrator,PT. AAAAAA,Serang,Banten,Full-Time,Graphic Designer,1,0,0,0,0,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Project Management,Communication Skills,PT. BBBBBB,Karawang,West Java,Freelance,Project Manager,0,0,0,0,1,0,0,0,0
+Visual Impairment,Digital Marketing,Content Strategy,PT. CCCCCC,Bekasi,West Java,Full-Time,Digital Marketing Specialist,0,1,0,0,0,0,0,0,0
+Neurodiversity (Dyscalculia),Microsoft Office,Calendar Management,PT. DDDDDD,Cimahi,West Java,Part-Time,Administrative Assistant,0,0,0,0,1,0,0,0,0
+Physical Disability,No Specific Skill,Accuracy,PT. EEEEEE,Purwakarta,West Java,Freelance,Data Entry Clerk,0,0,1,0,0,0,0,0,0
+Neurodiversity (Dyspraxia),Content Creation,Copywriting,PT. FFFFFF,Cikarang,West Java,Full-Time,Content Writer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Dysgraphia),Sales,Negotiation,PT. GGGGGG,Subang,West Java,Part-Time,Sales Representative,0,0,0,0,1,0,0,0,0
+Visual Impairment,No Specific Skill,Communication Skills,PT. HHHHHH,Indramayu,West Java,Freelance,Virtual Assistant,0,1,0,0,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Programming,Python,PT. IIIIII,Cianjur,West Java,Full-Time,Software Engineer,0,0,0,0,1,0,0,0,0
+Learning Disability,Data Analysis,Python,PT. JJJJJJ,Majalengka,West Java,Part-Time,Data Analyst,0,0,0,0,0,0,0,0,1
+Hearing Impairment,Graphic Design,Adobe Illustrator,PT. KKKKKK,Purwakarta,West Java,Full-Time,Graphic Designer,1,0,0,0,0,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Project Management,Task Management,PT. LLLLLL,Sukabumi,West Java,Freelance,Project Coordinator,0,0,0,0,1,0,0,0,0
+Visual Impairment,Digital Marketing,SEM,PT. MMMMMM,Karawang,West Java,Full-Time,Digital Marketer,0,1,0,0,0,0,0,0,0
+Neurodiversity (Dyscalculia),Microsoft Office,Calendar Management,PT. NNNNNN,Cirebon,West Java,Part-Time,Administrative Assistant,0,0,0,0,1,0,0,0,0
+Physical Disability,No Specific Skill,Accuracy,PT. OOOOOO,Tasikmalaya,West Java,Freelance,Data Entry Operator,0,0,1,0,0,0,0,0,0
+Neurodiversity (Dyspraxia),Content Creation,Copywriting,PT. PPPPPP,Bandung,West Java,Full-Time,Content Creator,0,0,0,0,1,0,0,0,0
+Neurodiversity (Dysgraphia),Sales,Product Knowledge,PT. QQQQQQ,Cirebon,West Java,Part-Time,Sales Assistant,0,0,0,0,1,0,0,0,0
+Visual Impairment,No Specific Skill,Organization,PT. RRRRRR,Bogor,West Java,Freelance,Virtual Receptionist,0,1,0,0,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Programming,Python,PT. SSSSSS,Depok,West Java,Full-Time,Software Developer,0,0,0,0,1,0,0,0,0
+Learning Disability,Data Analysis,Python,PT. TTTTTT,Tangerang,Banten,Part-Time,Data Analyst,0,0,0,0,0,0,0,0,1
+Hearing Impairment,Graphic Design,Adobe Illustrator,PT. UUUUUU,Serang,Banten,Full-Time,Graphic Designer,1,0,0,0,0,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Project Management,Project Planning,PT. VVVVVV,Karawang,West Java,Freelance,Project Manager,0,0,0,0,1,0,0,0,0
+Visual Impairment,Digital Marketing,Content Strategy,PT. WWWWWW,Bekasi,West Java,Full-Time,Digital Marketing Specialist,0,1,0,0,0,0,0,0,0
+Neurodiversity (Dyscalculia),Microsoft Office,Calendar Management,PT. XXXXXX,Cimahi,West Java,Part-Time,Administrative Assistant,0,0,0,0,1,0,0,0,0
+Physical Disability,No Specific Skill,Accuracy,PT. YYYYYY,Purwakarta,West Java,Freelance,Data Entry Clerk,0,0,1,0,0,0,0,0,0
+Neurodiversity (Dyspraxia),Content Creation,Copywriting,PT. ZZZZZZ,Cikarang,West Java,Full-Time,Content Writer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Dysgraphia),Sales,Product Knowledge,PT. AAAAAAA,Subang,West Java,Part-Time,Sales Representative,0,0,0,0,1,0,0,0,0
+Visual Impairment,No Specific Skill,Organization,PT. BBBBBBB,Indramayu,West Java,Freelance,Virtual Assistant,0,1,0,0,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Programming,Python,PT. CCCCCCC,Cianjur,West Java,Full-Time,Software Engineer,0,0,0,0,1,0,0,0,0
+Learning Disability,Data Analysis,Python,PT. DDDDDDD,Majalengka,West Java,Part-Time,Data Analyst,0,0,0,0,0,0,0,0,1
+Hearing Impairment,Graphic Design,Adobe Illustrator,PT. EEEEEEE,Purwakarta,West Java,Full-Time,Graphic Designer,1,0,0,0,0,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Project Management,Project Planning,PT. FFFFFFF,Sukabumi,West Java,Freelance,Project Coordinator,0,0,0,0,1,0,0,0,0
+Visual Impairment,Digital Marketing,Content Strategy,PT. GGGGGGG,Karawang,West Java,Full-Time,Digital Marketer,0,1,0,0,0,0,0,0,0
+Neurodiversity (Dyscalculia),Microsoft Office,Calendar Management,PT. HHHHHHH,Cirebon,West Java,Part-Time,Administrative Assistant,0,0,0,0,1,0,0,0,0
+Physical Disability,No Specific Skill,Accuracy,PT. IIIIIII,Tasikmalaya,West Java,Freelance,Data Entry Operator,0,0,1,0,0,0,0,0,0
+Neurodiversity (Dyspraxia),Content Creation,Copywriting,PT. JJJJJJJ,Bandung,West Java,Full-Time,Content Creator,0,0,0,0,1,0,0,0,0
+Neurodiversity (Dysgraphia),Sales,Negotiation,PT. KKKKKKK,Cirebon,West Java,Part-Time,Sales Assistant,0,0,0,0,1,0,0,0,0
+Visual Impairment,No Specific Skill,Communication Skills,PT. LLLLLLL,Bogor,West Java,Freelance,Virtual Receptionist,0,1,0,0,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Programming,Python,PT. MMMMMMM,Depok,West Java,Full-Time,Software Developer,0,0,0,0,1,0,0,0,0
+Learning Disability,Data Analysis,Python,PT. NNNNNNN,Tangerang,Banten,Part-Time,Data Analyst,0,0,0,0,0,0,0,0,1
+Hearing Impairment,Graphic Design,Adobe Illustrator,PT. OOOOOOO,Serang,Banten,Full-Time,Graphic Designer,1,0,0,0,0,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Project Management,Task Management,PT. PPPPPPP,Karawang,West Java,Freelance,Project Manager,0,0,0,0,1,0,0,0,0
+Visual Impairment,Digital Marketing,SEM,PT. QQQQQQQ,Bekasi,West Java,Full-Time,Digital Marketing Specialist,0,1,0,0,0,0,0,0,0
+Neurodiversity (Dyscalculia),Microsoft Office,Calendar Management,PT. RRRRRRR,Cimahi,West Java,Part-Time,Administrative Assistant,0,0,0,0,1,0,0,0,0
+Physical Disability,No Specific Skill,Accuracy,PT. SSSSSSS,Purwakarta,West Java,Freelance,Data Entry Clerk,0,0,1,0,0,0,0,0,0
+Neurodiversity (Dyspraxia),Content Creation,Copywriting,PT. DDDDDDDD,Bandung,West Java,Full-Time,Content Creator,0,0,0,0,1,0,0,0,0
+Neurodiversity (Dysgraphia),Sales,Product Knowledge,PT. EEEEEEEE,Cirebon,West Java,Part-Time,Sales Assistant,0,0,0,0,1,0,0,0,0
+Visual Impairment,No Specific Skill,Organization,PT. FFFFFFFFF,Bogor,West Java,Freelance,Virtual Receptionist,0,1,0,0,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Programming,Python,PT. GGGGGGGG,Depok,West Java,Full-Time,Software Developer,0,0,0,0,1,0,0,0,0
+Learning Disability,Data Analysis,Python,PT. HHHHHHHH,Tangerang,Banten,Part-Time,Data Analyst,0,0,0,0,0,0,0,0,1
+Hearing Impairment,Graphic Design,Adobe Illustrator,PT. IIIIIIII,Serang,Banten,Full-Time,Graphic Designer,1,0,0,0,0,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Project Management,Project Planning,PT. JJJJJJJJ,Karawang,West Java,Freelance,Project Manager,0,0,0,0,1,0,0,0,0
+Visual Impairment,Digital Marketing,SEO,PT. KKKKKKKK,Bekasi,West Java,Full-Time,Digital Marketing Specialist,0,1,0,0,0,0,0,0,0
+Neurodiversity (Dyscalculia),Microsoft Office,Organizational Skills,PT. LLLLLLLL,Cimahi,West Java,Part-Time,Administrative Assistant,0,0,0,0,1,0,0,0,0
+Physical Disability,No Specific Skill,Attention to Detail,PT. MMMMMMMM,Purwakarta,West Java,Freelance,Data Entry Clerk,0,0,1,0,0,0,0,0,0
+Neurodiversity (Dyspraxia),Content Creation,SEO,PT. XXXXXXXX,Bandung,West Java,Full-Time,Content Creator,0,0,0,0,1,0,0,0,0
+Neurodiversity (Dysgraphia),Sales,Customer Relationship Management,PT. YYYYYYYY,Cirebon,West Java,Part-Time,Sales Assistant,0,0,0,0,1,0,0,0,0
+Visual Impairment,No Specific Skill,Communication Skills,PT. ZZZZZZZZ,Bogor,West Java,Freelance,Virtual Receptionist,0,1,0,0,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Programming,Software Development Life Cycle,PT. AAAAAAAAA,Depok,West Java,Full-Time,Software Developer,0,0,0,0,1,0,0,0,0
+Learning Disability,Data Analysis,Data Visualization,PT. BBBBBBBB,Tangerang,Banten,Part-Time,Data Analyst,0,0,0,0,0,0,0,0,1
+Hearing Impairment,Graphic Design,Typography,PT. CCCCCCCC,Serang,Banten,Full-Time,Graphic Designer,1,0,0,0,0,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Project Management,Team Management,PT. DDDDDDDD,Karawang,West Java,Freelance,Project Manager,0,0,0,0,1,0,0,0,0
+Visual Impairment,Digital Marketing,SEO,PT. EEEEEEEE,Bekasi,West Java,Full-Time,Digital Marketing Specialist,0,1,0,0,0,0,0,0,0
+Neurodiversity (Dyscalculia),Microsoft Office,Organizational Skills,PT. FFFFFFFFF,Cimahi,West Java,Part-Time,Administrative Assistant,0,0,0,0,1,0,0,0,0
+Physical Disability,No Specific Skill,Attention to Detail,PT. GGGGGGGG,Purwakarta,West Java,Freelance,Data Entry Clerk,0,0,1,0,0,0,0,0,0
+Neurodiversity (Dyspraxia),Content Creation,SEO,PT. HHHHHHHH,Cikarang,West Java,Full-Time,Content Writer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Dysgraphia),Sales,Customer Relationship Management,PT. IIIIIIII,Subang,West Java,Part-Time,Sales Representative,0,0,0,0,1,0,0,0,0
+Visual Impairment,No Specific Skill,Organization,PT. JJJJJJJJ,Indramayu,West Java,Freelance,Virtual Assistant,0,1,0,0,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Programming,Version Control,PT. KKKKKKKK,Cianjur,West Java,Full-Time,Software Engineer,0,0,0,0,1,0,0,0,0
+Learning Disability,Data Analysis,Data Visualization,PT. LLLLLLLL,Majalengka,West Java,Part-Time,Data Analyst,0,0,0,0,0,0,0,0,1
+Hearing Impairment,Graphic Design,Typography,PT. MMMMMMMM,Purwakarta,West Java,Full-Time,Graphic Designer,1,0,0,0,0,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Project Management,Communication Skills,PT. NNNNNNNN,Sukabumi,West Java,Freelance,Project Coordinator,0,0,0,0,1,0,0,0,0
+Visual Impairment,Digital Marketing,Social Media Advertising,PT. OOOOOOOO,Karawang,West Java,Full-Time,Digital Marketer,0,1,0,0,0,0,0,0,0
+Neurodiversity (Dyscalculia),Microsoft Office,Organizational Skills,PT. PPPPPPPP,Cirebon,West Java,Part-Time,Administrative Assistant,0,0,0,0,1,0,0,0,0
+Physical Disability,No Specific Skill,Attention to Detail,PT. QQQQQQQQ,Tasikmalaya,West Java,Freelance,Data Entry Operator,0,0,1,0,0,0,0,0,0
+Neurodiversity (Dyspraxia),Content Creation,SEO,PT. RRRRRRRR,Bandung,West Java,Full-Time,Content Creator,0,0,0,0,1,0,0,0,0
+Neurodiversity (Dysgraphia),Sales,Customer Relationship Management,PT. SSSSSSSS,Cirebon,West Java,Part-Time,Sales Assistant,0,0,0,0,1,0,0,0,0
+Visual Impairment,No Specific Skill,Communication Skills,PT. TTTTTTTT,Bogor,West Java,Freelance,Virtual Receptionist,0,1,0,0,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Programming,Database Design,PT. UUUUUUUU,Depok,West Java,Full-Time,Software Developer,0,0,0,0,1,0,0,0,0
+Learning Disability,Data Analysis,Data Visualization,PT. VVVVVVVV,Tangerang,Banten,Part-Time,Data Analyst,0,0,0,0,0,0,0,0,1
+Hearing Impairment,Graphic Design,Typography,PT. WWWWWWWW,Serang,Banten,Full-Time,Graphic Designer,1,0,0,0,0,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Project Management,Team Management,PT. XXXXXXXX,Karawang,West Java,Freelance,Project Manager,0,0,0,0,1,0,0,0,0
+Visual Impairment,Digital Marketing,SEO,PT. YYYYYYYY,Bekasi,West Java,Full-Time,Digital Marketing Specialist,0,1,0,0,0,0,0,0,0
+Neurodiversity (Dyscalculia),Microsoft Office,Organizational Skills,PT. ZZZZZZZZ,Cimahi,West Java,Part-Time,Administrative Assistant,0,0,0,0,1,0,0,0,0
+Physical Disability,No Specific Skill,Attention to Detail,PT. AAAAAAAAA,Purwakarta,West Java,Freelance,Data Entry Clerk,0,0,1,0,0,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Content Creation,SEO,PT. BBBBBBBB,Bandung,West Java,Full-Time,Content Creator,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Sales,Customer Relationship Management,PT. CCCCCCCC,Cirebon,West Java,Part-Time,Sales Assistant,0,0,0,0,1,0,0,0,0
+Visual Impairment,No Specific Skill,Communication Skills,PT. DDDDDDDD,Bogor,West Java,Freelance,Virtual Receptionist,0,1,0,0,0,0,0,0,0
+Physical Disability,Programming,Version Control,PT. EEEEEEEE,Depok,West Java,Full-Time,Software Engineer,0,0,1,0,0,0,0,0,0
+Neurodiversity (Dyspraxia),Data Analysis,Data Visualization,PT. FFFFFFFF,Tangerang,Banten,Part-Time,Data Analyst,0,0,0,0,1,0,0,0,0
+Hearing Impairment,Graphic Design,Typography,PT. GGGGGGGG,Serang,Banten,Full-Time,Graphic Designer,1,0,0,0,0,0,0,0,0
+Learning Disability,Project Management,Team Management,PT. HHHHHHHH,Karawang,West Java,Freelance,Project Manager,0,0,0,0,0,0,0,0,1
+Neurodiversity (Dyslexia),Digital Marketing,SEO,PT. IIIIIIII,Bekasi,West Java,Full-Time,Digital Marketing Specialist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Dyscalculia),Microsoft Office,Organizational Skills,PT. JJJJJJJJ,Cimahi,West Java,Part-Time,Administrative Assistant,0,0,0,0,1,0,0,0,0
+Physical Disability,No Specific Skill,Attention to Detail,PT. KKKKKKKK,Purwakarta,West Java,Freelance,Data Entry Clerk,0,0,1,0,0,0,0,0,0
+Visual Impairment,Microsoft Office,Communication,PT. ABC,Jakarta,Jakarta Raya,Full-Time,Administrative Assistant,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Programming,Problem Solving,PT. XYZ,Bandung,West Java,Part-Time,Software Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Graphic Design,Creativity,PT. DEF,Surabaya,Jawa Timur,Full-Time,Graphic Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,No Specific Skill,Time Management,PT. GHI,Medan,Sumatera Utara,Freelance,Project Manager,0,0,0,0,0,0,0,0,1
+Visual Impairment,Sales,Adaptability,PT. JKL,Semarang,Central Java,Full-Time,Sales Representative,0,1,0,0,0,0,0,0,0
+Physical Disability,Digital Marketing,Teamwork,PT. MNO,Bali,Bali,Part-Time,Marketing Specialist,0,0,1,0,0,0,0,0,0
+Learning Disability,Data Analysis,Leadership,PT. PQR,Makassar,South Sulawesi,Full-Time,Data Analyst,0,0,0,0,0,0,0,0,1
+Visual Impairment,No Specific Skill,Attention to Detail,PT. STU,Palembang,South Sumatra,Freelance,Customer Service Representative,0,1,0,0,0,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Programming,Problem Solving,PT. ABC,Jakarta,Jakarta Raya,Full-Time,Software Developer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Data Analysis,Creativity,PT. DEF,Bandung,West Java,Part-Time,Data Analyst,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Graphic Design,Time Management,PT. GHI,Surabaya,Jawa Timur,Full-Time,Graphic Designer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),No Specific Skill,Adaptability,PT. JKL,Medan,Sumatera Utara,Freelance,Customer Service Representative,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Digital Marketing,Problem Solving,PT. MNO,Semarang,Central Java,Full-Time,Marketing Specialist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Project Management,Teamwork,PT. PQR,Bali,Bali,Part-Time,Project Manager,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Microsoft Office,Leadership,PT. STU,Makassar,South Sulawesi,Full-Time,Administrative Assistant,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),No Specific Skill,Attention to Detail,PT. VWX,Palembang,South Sumatra,Freelance,Data Entry Clerk,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Data Analysis,Creativity,PT. DEF,Bandung,West Java,Part-Time,Data Analyst,0,0,0,0,1,0,0,0,0
+Physical Disability,Digital Marketing,Social Media Advertising,PT. MNO,Semarang,Central Java,Full-Time,Marketing Specialist,0,0,1,0,0,0,0,0,0
+Learning Disability,Project Management,Agile Methodology,PT. PQR,Bali,Bali,Part-Time,Project Manager,0,0,0,0,0,0,0,0,1
+Visual Impairment,No Specific Skill,,PT. STU,Makassar,South Sulawesi,Full-Time,Administrative Assistant,0,1,0,0,0,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Programming,Python,PT. VWX,Palembang,South Sumatra,Freelance,Data Entry Clerk,0,0,0,0,1,0,0,0,0
+Visual Impairment,Programming,Java,PT. YZ,Yogyakarta,Special Region of Yogyakarta,Full-Time,Web Developer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Data Analysis,Statistical Analysis,PT. AAA,Denpasar,Bali,Part-Time,Data Scientist,1,0,0,0,0,0,0,0,0
+Physical Disability,Graphic Design,Adobe Illustrator,PT. BBB,Batam,Riau Islands,Freelance,UI/UX Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Digital Marketing,Search Engine Optimization,PT. CCC,Pekanbaru,Riau,Full-Time,Digital Marketer,0,0,0,0,0,0,0,0,1
+Neurodiversity (Dyslexia),Content Creation,Copywriting,PT. DDD,Bandar Lampung,Lampung,Part-Time,Content Creator,0,0,0,0,1,0,0,0,0
+Neurodiversity (Dyscalculia),Sales,Negotiation,PT. EEE,Padang,West Sumatra,Full-Time,Sales Associate,0,0,0,0,1,0,0,0,0
+Visual Impairment,No Specific Skill,,PT. FFF,Mataram,West Nusa Tenggara,Freelance,Customer Support,0,1,0,0,0,0,0,0,0
+Physical Disability,Programming,C++,PT. GGG,Pontianak,West Kalimantan,Full-Time,Frontend Developer,0,0,1,0,0,0,0,0,0
+Neurodiversity (Dyspraxia),Data Analysis,Data Visualization,PT. HHH,Balikpapan,East Kalimantan,Part-Time,Business Analyst,0,0,0,0,1,0,0,0,0
+Hearing Impairment,Graphic Design,Typography,PT. III,Manado,North Sulawesi,Full-Time,Visual Designer,1,0,0,0,0,0,0,0,0
+Learning Disability,Project Management,Risk Management,PT. JJJ,Kupang,East Nusa Tenggara,Freelance,Project Coordinator,0,0,0,0,0,0,0,0,1
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Digital Marketing,Content Marketing,PT. KKK,Palangka Raya,Central Kalimantan,Full-Time,SEO Specialist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Microsoft Office,Data Entry,PT. LLL,Jayapura,Papua,Part-Time,Office Administrator,0,0,0,0,1,0,0,0,0
+Neurodiversity (Dyslexia),Content Creation,Copywriting,PT. NNN,Banda Aceh,Aceh,Full-Time,Content Writer,0,0,0,0,1,0,0,0,0
+Hearing Impairment,Sales,Client Relationship Management,PT. OOO,Banjarmasin,South Kalimantan,Part-Time,Sales Representative,1,0,0,0,0,0,0,0,0
+Physical Disability,No Specific Skill,,PT. PPP,Ambon,Maluku,Freelance,Virtual Assistant,0,0,1,0,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Programming,JavaScript,PT. QQQ,Mamuju,West Sulawesi,Full-Time,Software Engineer,0,0,0,0,1,0,0,0,0
+Learning Disability,Data Analysis,Excel,PT. RRR,Samarinda,East Kalimantan,Part-Time,Data Coordinator,0,0,0,0,0,0,0,0,1
+Neurodiversity (Autism Spectrum Disorder),Graphic Design,Adobe Illustrator,PT. SSS,Ternate,North Maluku,Full-Time,Visual Illustrator,0,0,0,0,1,0,0,0,0
+Neurodiversity (Dyslexia),Project Management,Agile Methodology,PT. TTT,Tarakan,North Kalimantan,Freelance,Project Planner,0,0,0,0,1,0,0,0,0
+Visual Impairment,Digital Marketing,Social Media Management,PT. UUU,Bengkulu,Bengkulu,Full-Time,Social Media Manager,0,1,0,0,0,0,0,0,0
+Neurodiversity (Dyscalculia),Microsoft Office,Data Analysis,PT. VVV,Gorontalo,Gorontalo,Part-Time,Administrative Coordinator,0,0,0,0,1,0,0,0,0
+Physical Disability,No Specific Skill,,PT. WWW,Palu,Central Sulawesi,Freelance,Data Entry Operator,0,0,1,0,0,0,0,0,0
+Neurodiversity (Dyspraxia),Content Creation,Creative Writing,PT. XXX,Lhokseumawe,Aceh,Full-Time,Content Editor,0,0,0,0,1,0,0,0,0
+Neurodiversity (Dysgraphia),Sales,Negotiation,PT. YYY,Palopo,South Sulawesi,Part-Time,Sales Assistant,0,0,0,0,1,0,0,0,0
+Visual Impairment,No Specific Skill,,PT. ZZZ,Tanjung Pinang,Riau Islands,Freelance,Virtual Receptionist,0,1,0,0,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Programming,Java,PT. AAAA,Manado,North Sulawesi,Full-Time,Software Architect,0,0,0,0,1,0,0,0,0
+Learning Disability,Data Analysis,Excel,PT. BBBB,Pangkal Pinang,Bangka Belitung,Part-Time,Data Quality Analyst,0,0,0,0,0,0,0,0,1
+Hearing Impairment,Graphic Design,Adobe Photoshop,PT. CCCC,Tanjung Balai,Sumatera Utara,Full-Time,UI/UX Designer,1,0,0,0,0,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Project Management,Agile Methodology,PT. DDDD,Merauke,Papua,Freelance,Project Assistant,0,0,0,0,1,0,0,0,0
+Neurodiversity (Dyslexia),Digital Marketing,Social Media Advertising,PT. EEEE,Tanjung Selor,North Kalimantan,Full-Time,Social Media Strategist,0,0,0,0,1,0,0,0,0
+Physical Disability,Microsoft Office,Excel,PT. FFFF,Langsa,Aceh,Part-Time,Office Assistant,0,0,1,0,0,0,0,0,0
+Visual Impairment,No Specific Skill,,PT. GGGG,Bontang,East Kalimantan,Freelance,Virtual Tutor,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Programming,Data Analysis,ABC Company,Jakarta,Jakarta Raya,Full-time,Software Engineer,1,0,0,0,0,0,0,0,0
+Visual Impairment,Graphic Design,Adobe Photoshop,XYZ Corporation,Bandung,West Java,Part-time,Graphic Designer,0,1,0,0,0,0,0,0,0
+Physical Disability,Project Management,Leadership Skills,PQR Ltd,Surabaya,Jawa Timur,Full-time,Project Manager,0,0,1,0,0,0,0,0,0
+All Types of Disabilities,Content Writing,Copy Editing,MNO Industries,Medan,Sumatera Utara,Full-time,Content Editor,0,0,0,1,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Marketing Strategy,Market Research,UVW Agency,Yogyakarta,Special Region of Yogyakarta,Full-time,Marketing Analyst,0,0,0,0,1,0,0,0,0
+Mobility Impairment,Web Development,Front-end Development,IJK Solutions,Bali,Bali,Part-time,Web Developer,0,0,0,0,0,1,0,0,0
+Speech Impairment,Public Speaking,Event Planning,RST Events,Palembang,Sumatera Selatan,Full-time,Event Coordinator,0,0,0,0,0,0,1,0,0
+Neurodiversity (Autism Spectrum Disorder),Data Entry,Attention to Detail,DEF Services,Makassar,Sulawesi Selatan,Part-time,Data Analyst,0,0,0,0,1,0,0,0,0
+Cognitive Disability,Customer Service,Problem Solving,GHI Corporation,Bekasi,West Java,Full-time,Customer Support Representative,0,0,0,0,0,0,0,1,0
+Physical Disability,Accounting,Financial Reporting,LMN Bank,Semarang,Central Java,Full-time,Accountant,0,0,1,0,0,0,0,0,0
+Hearing Impairment,Data Analysis,Statistics,JKL Consulting,Jakarta,Jakarta Raya,Part-time,Data Scientist,1,0,0,0,0,0,0,0,0
+Visual Impairment,Content Marketing,SEO Optimization,XYZ Corporation,Surabaya,Jawa Timur,Full-time,Marketing Specialist,0,1,0,0,0,0,0,0,0
+All Types of Disabilities,Software Development,Database Management,PQR Ltd,Bandung,West Java,Full-time,Database Administrator,0,0,0,1,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Business Development,Client Relationship Management,MNO Industries,Medan,Sumatera Utara,Part-time,Business Analyst,0,0,0,0,1,0,0,0,0
+Mobility Impairment,UI/UX Design,Wireframing,UVW Agency,Jakarta,Jakarta Raya,Full-time,UI/UX Designer,0,0,0,0,0,1,0,0,0
+Speech Impairment,Content Writing,Editing,RST Events,Surabaya,Jawa Timur,Part-time,Content Editor,0,0,0,0,0,0,1,0,0
+Neurodiversity (Autism Spectrum Disorder),Data Analysis,Data Visualization,DEF Services,Bandung,West Java,Part-time,Data Analyst,0,0,0,0,1,0,0,0,0
+Cognitive Disability,Human Resources,Employee Relations,GHI Corporation,Bali,Bali,Full-time,HR Specialist,0,0,0,0,0,0,0,1,0
+Physical Disability,Software Engineering,Agile Development,JKL Consulting,Jakarta,Jakarta Raya,Part-time,Software Developer,0,0,1,0,0,0,0,0,0
+Hearing Impairment,Graphic Design,Illustration,ABC Company,Surabaya,Jawa Timur,Full-time,Graphic Designer,1,0,0,0,0,0,0,0,0
+Visual Impairment,Project Management,Time Management,XYZ Corporation,Medan,Sumatera Utara,Part-time,Project Coordinator,0,1,0,0,0,0,0,0,0
+All Types of Disabilities,Copywriting,Content Editing,PQR Ltd,Yogyakarta,Special Region of Yogyakarta,Full-time,Content Writer,0,0,0,1,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Digital Marketing,Social Media Management,MNO Industries,Bandung,West Java,Full-time,Marketing Coordinator,0,0,0,0,1,0,0,0,0
+Mobility Impairment,Full-stack Development,Database Design,UVW Agency,Jakarta,Jakarta Raya,Part-time,Full-stack Developer,0,0,0,0,0,1,0,0,0
+Speech Impairment,Public Relations,Media Relations,RST Events,Surabaya,Jawa Timur,Full-time,PR Specialist,0,0,0,0,0,0,1,0,0
+Neurodiversity (Autism Spectrum Disorder),Data Entry,Data Cleaning,DEF Services,Medan,Sumatera Utara,Part-time,Data Entry Operator,0,0,0,0,1,0,0,0,0
+Cognitive Disability,Sales,Negotiation Skills,GHI Corporation,Jakarta,Jakarta Raya,Full-time,Sales Representative,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Technical Writing,Communication Skills,ABC Company,Surabaya,Jawa Timur,Full-time,Technical Writer,1,0,0,0,0,0,0,0,0
+Visual Impairment,UI/UX Design,Prototyping,XYZ Corporation,Jakarta,Jakarta Raya,Part-time,UI/UX Designer,0,1,0,0,0,0,0,0,0
+Physical Disability,Project Management,Agile Methodology,PQR Ltd,Bandung,West Java,Full-time,Project Coordinator,0,0,1,0,0,0,0,0,0
+All Types of Disabilities,Data Analysis,Data Visualization,MNO Industries,Yogyakarta,Special Region of Yogyakarta,Part-time,Data Analyst,0,0,0,1,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Content Writing,Blogging,UVW Agency,Medan,Sumatera Utara,Full-time,Content Writer,0,0,0,0,1,0,0,0,0
+Mobility Impairment,Backend Development,Database Administration,IJK Solutions,Jakarta,Jakarta Raya,Part-time,Backend Developer,0,0,0,0,0,1,0,0,0
+Speech Impairment,Social Media Marketing,Content Creation,RST Events,Semarang,Central Java,Full-time,Social Media Specialist,0,0,0,0,0,0,1,0,0
+Neurodiversity (Autism Spectrum Disorder),Data Entry,Data Analysis,DEF Services,Bandung,West Java,Part-time,Data Entry Operator,0,0,0,0,1,0,0,0,0
+Cognitive Disability,Graphic Design,Logo Design,GHI Corporation,Surabaya,Jawa Timur,Full-time,Graphic Designer,0,0,0,0,0,0,0,1,0
+Physical Disability,Web Development,JavaScript,PQR Ltd,Jakarta,Jakarta Raya,Full-time,Web Developer,0,0,1,0,0,0,0,0,0
+Hearing Impairment,Copywriting,Proofreading,ABC Company,Semarang,Central Java,Part-time,Content Writer,1,0,0,0,0,0,0,0,0
+Visual Impairment,Market Research,Data Analysis,XYZ Corporation,Jakarta,Jakarta Raya,Full-time,Market Research Analyst,0,1,0,0,0,0,0,0,0
+All Types of Disabilities,Software Engineering,Agile Development,MNO Industries,Bandung,West Java,Part-time,Software Developer,0,0,0,1,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Digital Marketing,Content Creation,UVW Agency,Jakarta,Jakarta Raya,Full-time,Digital Marketer,0,0,0,0,1,0,0,0,0
+Mobility Impairment,UI/UX Design,Usability Testing,IJK Solutions,Surabaya,Jawa Timur,Part-time,UX Researcher,0,0,0,0,0,1,0,0,0
+Speech Impairment,Event Planning,Organization Skills,RST Events,Bandung,West Java,Full-time,Event Planner,0,0,0,0,0,0,1,0,0
+Neurodiversity (Autism Spectrum Disorder),Data Analysis,Data Modeling,DEF Services,Jakarta,Jakarta Raya,Part-time,Data Analyst,0,0,0,0,1,0,0,0,0
+Cognitive Disability,Customer Service,Conflict Resolution,GHI Corporation,Medan,Sumatera Utara,Full-time,Customer Service Representative,0,0,0,0,0,0,0,1,0
+Physical Disability,Marketing Strategy,Brand Management,PQR Ltd,Jakarta,Jakarta Raya,Full-time,Marketing Manager,0,0,1,0,0,0,0,0,0
+Hearing Impairment,Data Visualization,Data Analysis,ABC Company,Surabaya,Jawa Timur,Part-time,Data Analyst,1,0,0,0,0,0,0,0,0
+Visual Impairment,Content Marketing,Social Media Management,XYZ Corporation,Bandung,West Java,Full-time,Social Media Manager,0,1,0,0,0,0,0,0,0
+All Types of Disabilities,Project Management,Team Leadership,MNO Industries,Jakarta,Jakarta Raya,Full-time,Project Manager,0,0,0,1,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Business Analysis,Requirement Gathering,UVW Agency,Yogyakarta,Special Region of Yogyakarta,Part-time,Business Analyst,0,0,0,0,1,0,0,0,0
+Mobility Impairment,Front-end Development,HTML/CSS,IJK Solutions,Jakarta,Jakarta Raya,Full-time,Front-end Developer,0,0,0,0,0,1,0,0,0
+Speech Impairment,Content Writing,Blogging,RST Events,Medan,Sumatera Utara,Full-time,Content Writer,0,0,0,0,0,0,1,0,0
+Neurodiversity (Autism Spectrum Disorder),Data Entry,Data Cleansing,DEF Services,Jakarta,Jakarta Raya,Part-time,Data Entry Operator,0,0,0,0,1,0,0,0,0
+Cognitive Disability,Sales,Negotiation Skills,GHI Corporation,Surabaya,Jawa Timur,Full-time,Sales Representative,0,0,0,0,0,0,0,1,0
+Physical Disability,Software Engineering,Java Programming,PQR Ltd,Bandung,West Java,Full-time,Software Engineer,0,0,1,0,0,0,0,0,0
+Hearing Impairment,Graphic Design,Adobe Illustrator,ABC Company,Jakarta,Jakarta Raya,Part-time,Graphic Designer,1,0,0,0,0,0,0,0,0
+Visual Impairment,Project Management,Time Management,XYZ Corporation,Semarang,Central Java,Part-time,Project Coordinator,0,1,0,0,0,0,0,0,0
+All Types of Disabilities,Copywriting,Creative Writing,MNO Industries,Jakarta,Jakarta Raya,Full-time,Copywriter,0,0,0,1,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Digital Marketing,SEO Optimization,UVW Agency,Surabaya,Jawa Timur,Part-time,SEO Specialist,0,0,0,0,1,0,0,0,0
+Mobility Impairment,Database Administration,SQL,IJK Solutions,Bandung,West Java,Full-time,Database Administrator,0,0,0,0,0,1,0,0,0
+Speech Impairment,Public Relations,Media Relations,RST Events,Medan,Sumatera Utara,Part-time,PR Specialist,0,0,0,0,0,0,1,0,0
+Neurodiversity (Autism Spectrum Disorder),Data Analysis,Data Visualization,DEF Services,Jakarta,Jakarta Raya,Full-time,Data Analyst,0,0,0,0,1,0,0,0,0
+Hearing Impairment,Technical Writing,Communication Skills,ABC Company,Semarang,Central Java,Full-time,Technical Writer,1,0,0,0,0,0,0,0,0
+Visual Impairment,Market Research,Data Analysis,XYZ Corporation,Bandung,West Java,Full-time,Market Research Analyst,0,1,0,0,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Digital Marketing,SEO Optimization,UVW Agency,Surabaya,Jawa Timur,Full-time,SEO Specialist,0,0,0,0,1,0,0,0,0
+Hearing Impairment,Content Marketing,Social Media Management,LMN Agency,Medan,Sumatera Utara,Full-time,Social Media Manager,1,0,0,0,0,0,0,0,0
+Visual Impairment,Data Analysis,Python Programming,XYZ Solutions,Bandung,West Java,Part-time,Data Analyst,0,1,0,0,0,0,0,0,0
+All Types of Disabilities,Software Development,Java Programming,ABC Technologies,Jakarta,Jakarta Raya,Full-time,Software Engineer,0,0,0,1,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Project Management,Agile Methodology,PQR Inc.,Surabaya,Jawa Timur,Part-time,Project Manager,0,0,0,0,1,0,0,0,0
+Mobility Impairment,Graphic Design,Adobe Photoshop,DEF Creative,Semarang,Central Java,Full-time,Graphic Designer,0,0,0,0,0,1,0,0,0
+Speech Impairment,Customer Service,Conflict Resolution,GHI Services,Jakarta,Jakarta Raya,Part-time,Customer Service Representative,0,0,0,0,0,0,1,0,0
+Neurodiversity (Autism Spectrum Disorder),Data Entry,Data Cleansing,UVW Company,Bandung,West Java,Full-time,Data Entry Operator,0,0,0,0,1,0,0,0,0
+Cognitive Disability,Sales,Negotiation Skills,MNO Corporation,Jakarta,Jakarta Raya,Full-time,Sales Representative,0,0,0,0,0,0,0,1,0
+Physical Disability,Web Development,HTML/CSS,IJK Technologies,Surabaya,Jawa Timur,Part-time,Front-end Developer,0,0,1,0,0,0,0,0,0
+Hearing Impairment,Content Writing,Copywriting,RST Solutions,Medan,Sumatera Utara,Full-time,Content Writer,1,0,0,0,0,0,0,0,0
+Visual Impairment,Market Research,Data Analysis,XYZ Research,Bandung,West Java,Part-time,Market Research Analyst,0,1,0,0,0,0,0,0,0
+All Types of Disabilities,Data Science,Machine Learning,ABC Labs,Yogyakarta,Special Region of Yogyakarta,Full-time,Data Scientist,0,0,0,1,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Digital Marketing,Social Media Advertising,PQR Agency,Semarang,Central Java,Part-time,Digital Marketer,0,0,0,0,1,0,0,0,0
+Mobility Impairment,UI/UX Design,Wireframing,IJK Creative,Jakarta,Jakarta Raya,Full-time,UI/UX Designer,0,0,0,0,0,1,0,0,0
+Speech Impairment,Event Planning,Organizational Skills,RST Events,Bandung,West Java,Full-time,Event Planner,0,0,0,0,0,0,1,0,0
+Neurodiversity (Autism Spectrum Disorder),Data Analysis,Data Modeling,DEF Analytics,Jakarta,Jakarta Raya,Part-time,Data Analyst,0,0,0,0,1,0,0,0,0
+Cognitive Disability,Marketing,Brand Management,GHI Marketing,Surabaya,Jawa Timur,Full-time,Marketing Manager,0,0,0,0,0,0,0,1,0
+Physical Disability,Technical Support,Problem Solving,LMN Support,Jakarta,Jakarta Raya,Part-time,Technical Support Specialist,0,0,1,0,0,0,0,0,0
+Hearing Impairment,Data Visualization,Data Analysis,ABC Analytics,Semarang,Central Java,Full-time,Data Analyst,1,0,0,0,0,0,0,0,0
+Visual Impairment,Content Creation,Social Media Management,XYZ Marketing,Jakarta,Jakarta Raya,Part-time,Social Media Specialist,0,1,0,0,0,0,0,0,0
+All Types of Disabilities,Project Management,Leadership Skills,MNO Corporation,Bandung,West Java,Full-time,Project Manager,0,0,0,1,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Business Analysis,Problem-solving,UVW Solutions,Medan,Sumatera Utara,Part-time,Business Analyst,0,0,0,0,1,0,0,0,0
+Mobility Impairment,Front-end Development,JavaScript Programming,IJK Technologies,Surabaya,Jawa Timur,Full-time,Front-end Developer,0,0,0,0,0,1,0,0,0
+Speech Impairment,Content Writing,Blogging,RST Content,Bandung,West Java,Full-time,Content Writer,0,0,0,0,0,0,1,0,0
+Neurodiversity (Autism Spectrum Disorder),Data Entry,Data Cleansing,DEF Services,Jakarta,Jakarta Raya,Full-time,Data Entry Operator,0,0,0,0,1,0,0,0,0
+All Types of Disabilities,Graphic Design,Adobe Photoshop,XYZ Design Studio,Jakarta,Jakarta Raya,Full-time,Graphic Designer,0,0,0,1,0,0,0,0,0
+Visual Impairment,Content Writing,Copywriting,ABC Agency,Bandung,West Java,Part-time,Content Writer,0,1,0,0,0,0,0,0,0
+Physical Disability,Software Development,Java Programming,PQR Solutions,Surabaya,Jawa Timur,Full-time,Software Engineer,0,0,1,0,0,0,0,0,0
+Hearing Impairment,Data Analysis,Statistical Analysis,MNO Analytics,Yogyakarta,Special Region of Yogyakarta,Part-time,Data Analyst,1,0,0,0,0,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Customer Service,Problem Solving,UVW Services,Semarang,Central Java,Full-time,Customer Support Representative,0,0,0,0,1,0,0,0,0
+Mobility Impairment,Web Development,HTML/CSS,DEF Web Solutions,Jakarta,Jakarta Raya,Part-time,Web Developer,0,0,0,0,0,1,0,0,0
+Speech Impairment,Marketing,Market Research,RST Marketing Agency,Bandung,West Java,Part-time,Market Research Analyst,0,0,0,0,0,0,1,0,0
+Neurodiversity (Autism Spectrum Disorder),Data Science,Machine Learning,IJK Labs,Surabaya,Jawa Timur,Full-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Cognitive Disability,Social Media Management,Content Creation,GHI Media,Jakarta,Jakarta Raya,Full-time,Social Media Manager,0,0,0,0,0,0,0,1,0
+All Types of Disabilities,Project Management,Leadership Skills,XYZ Solutions,Jakarta,Jakarta Raya,Part-time,Project Manager,0,0,0,1,0,0,0,0,0
+Visual Impairment,Content Writing,Blogging,ABC Bloggers,Medan,Sumatera Utara,Full-time,Content Writer,0,1,0,0,0,0,0,0,0
+Physical Disability,UI/UX Design,Wireframing,PQR Design Agency,Surabaya,Jawa Timur,Part-time,UI/UX Designer,0,0,1,0,0,0,0,0,0
+Hearing Impairment,Data Analysis,Data Visualization,MNO Analytics,Jakarta,Jakarta Raya,Full-time,Data Analyst,1,0,0,0,0,0,0,0,0
+Visual Impairment,Communication skills,Microsoft Excel,ABC Corporation,Jakarta,Jakarta Raya,Full-time,Data Analyst,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Teamwork,Python,XYZ Solutions,Bandung,West Java,Contract,Software Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,Acme Technologies,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Global Ventures,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,Innovate Systems,Semarang,Central Java,Contract,Software Tester,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,JavaScript,ByteBytes,Yogyakarta,Special Region of Yogyakarta,Full-time,UX Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,Data Solutions,Bali,Bali,Part-time,Software Engineer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,CyberTech,Surabaya,Jawa Timur,Full-time,Data Scientist,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,CodeCraft,Bandung,West Java,Contract,Full-stack Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechGenius,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Office,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Teamwork,Java,TechSolutions,Bandung,West Java,Contract,Software Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Leadership,JavaScript,InfoTech,Surabaya,Jawa Timur,Part-time,Web Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Design Co.,Medan,Sumatera Utara,Full-time,Graphic Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,Python,DataTech,Semarang,Central Java,Contract,Data Scientist,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,UI/UX design,WebCraft,Yogyakarta,Special Region of Yogyakarta,Full-time,UX Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,Java,AppSolutions,Bali,Bali,Part-time,Software Engineer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechWizards,Surabaya,Jawa Timur,Full-time,Data Analyst,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,Coding Solutions,Bandung,West Java,Contract,Full-stack Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoLab,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,TechHub,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Teamwork,Python,CodeByte,Bandung,West Java,Contract,Software Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,ByteTech,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Innovative Solutions,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,DataGenius,Semarang,Central Java,Contract,Software Tester,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,JavaScript,TechBytes,Yogyakarta,Special Region of Yogyakarta,Full-time,UX Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,InfoSolutions,Bali,Bali,Part-time,Software Engineer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechGenie,Surabaya,Jawa Timur,Full-time,Data Scientist,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,WebWorks,Bandung,West Java,Contract,Full-stack Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechConnect,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Office,Innovative Solutions,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Teamwork,Java,CodingSolutions,Bandung,West Java,Contract,Software Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Leadership,JavaScript,ByteTech,Surabaya,Jawa Timur,Part-time,Web Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,DesignSolutions,Medan,Sumatera Utara,Full-time,Graphic Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,Python,TechLab,Semarang,Central Java,Contract,Data Scientist,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,UI/UX design,CodeCraft,Yogyakarta,Special Region of Yogyakarta,Full-time,UX Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,Java,TechSolutions,Bali,Bali,Part-time,Software Engineer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,DataBytes,Surabaya,Jawa Timur,Full-time,Data Analyst,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,CodingTech,Bandung,West Java,Contract,Full-stack Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoTech,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,TechCo,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Teamwork,Python,DataCraft,Bandung,West Java,Contract,Software Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,TechSolutions,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,WebTech,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Central Java,Contract,Software Tester,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,JavaScript,Innovate Systems,Yogyakarta,Special Region of Yogyakarta,Full-time,UX Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,CodeGenius,Bali,Bali,Part-time,Software Engineer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechSolutions,Surabaya,Jawa Timur,Full-time,Data Scientist,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,InfoLab,Bandung,West Java,Contract,Full-stack Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,ByteTech,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,1,0,0,0,0,0,0,0
+Learning Disability,Time management,HTML,WebWorks,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,0,0,0,1
+Learning Disability,Critical thinking,Ruby on Rails,WebCraft,Bandung,West Java,Contract,Full-stack Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Central Java,Jawa Tengah,Contract,0,0,0,0,0,0,0,1,0
+Physical Disability,Leadership,Java,Tech Solutions,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,WebTech,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,0,0,0,1
