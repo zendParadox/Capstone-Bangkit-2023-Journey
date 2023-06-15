@@ -34,12 +34,16 @@ To run the code in this repository, the following dependencies are required:
 
 You can install the required packages by running the following command:
 
-`pip install tensorflow numpy scikit-learn keras-tuner`
+``` 
+pip install tensorflow numpy scikit-learn keras-tuner
+```
 
 ## Usage
 To run the hyperparameter tuning and training process, execute the following command:
 
-`python hyperparameter_tuning.py`
+```
+python hyperparameter_tuning.py
+```
 
 The trained model and the TensorFlow Lite model will be saved in the current directory.
 
