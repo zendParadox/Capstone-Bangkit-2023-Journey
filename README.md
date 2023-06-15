@@ -24,7 +24,7 @@
     ·
     <a href="#">Presentation Slide</a>
     ·
-    <a href="#">Go To Market Slide</a>
+    <a href="https://docs.google.com/presentation/d/1m21gu_3h0fwAmk3wBz-XUw0o7gBa5mf0lrLBhWzu5ng/edit?usp=sharing" target="_blank">Go To Market Slide</a>
     <br />
     © C23 - PS017 Bangkit Capstone Team
   </p>
