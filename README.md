@@ -18,9 +18,7 @@
     <br />
     <a href="#">Project Brief</a>
     ·
-    <a href="#">Volunteers APK Link</a>
-    ·
-    <a href="#">Help Seekers APK Link</a>
+    <a href="#">Journey APK Link</a>
     ·
     <a href="#">Video Presentation</a>
     ·
