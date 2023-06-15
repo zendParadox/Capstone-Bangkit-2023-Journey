@@ -47,3 +47,15 @@
 | Novandi Ramadhan       | A343DSX1207 | Mobile Development  |
 
 <br>
+
+# About The Project
+<p>According to Badan Pusat Statistik (BPS), from 2016 to 2021 the number of workers with disabilities in Indonesia has decreased, but in 2022 the number of workers with disabilities has increased by 0.21%. We are inspired to maintain the percentage increase in the following years. </p>
+
+<p>Companies also have to hire people with disabilities and follow the rules by the Indonesian government, especially UU No. 8 Tahun 2016 concerning people with disabilities, BUMN or private companies are required to employ people with disabilities at least 1-2% of total employees.</p>
+
+<p>Journey, our mobile application-based platform aims to improve job opportunities for people with disabilities in Indonesia. It will include an accessible, easy-to-use platform of job seekers and employers, use smart algorithms to match candidates with suitable jobs.</p>
+
+<br>
+
+# App Overview
+
