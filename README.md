@@ -58,8 +58,21 @@
 <p>Journey prioritize inclusivity, user experience, and continuous improvement. Engage with stakeholders, involve individuals with disabilities in the development process, and collaborate with disability advocates to ensure the platform meets the needs of its target audience.</p>
 
 <br>
-# App Overview
 
+# App Overview
+- Prerequisites
+Android
+Internet connection
+
+- Installation
+Download the APK
+Install the APK
+
+- Register
+Open Journey Applications
+Register your email address
+
+- Screenshot
 
 
 # Documentation
