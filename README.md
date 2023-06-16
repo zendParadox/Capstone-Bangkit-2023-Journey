@@ -18,11 +18,11 @@
     <br />
     <a href="#">Project Brief</a>
     ·
-    <a href="#">Journey APK Link</a>
+    <a href="https://github.com/arifrizqi/journey-api">Journey APK Link</a>
     ·
-    <a href="#">Video Presentation</a>
+    <a href="https://youtu.be/apmrTKdXd-Y">Video Presentation</a>
     ·
-    <a href="#">Presentation Slide</a>
+    <a href="https://docs.google.com/presentation/d/1XInrl7jMs7Ju8aCRZMpHFSq6ncE7Q2NEqiapbZJ2pLo/edit?usp=sharing ">Presentation Slide</a>
     ·
     <a href="https://docs.google.com/presentation/d/1m21gu_3h0fwAmk3wBz-XUw0o7gBa5mf0lrLBhWzu5ng/edit?usp=sharing" target="_blank">Go To Market Slide</a>
     <br />
