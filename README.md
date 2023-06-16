@@ -61,16 +61,16 @@
 
 # App Overview
 - Prerequisites
-Android
-Internet connection
+<p> Android
+Internet connection <p>
 
 - Installation
-Download the APK
-Install the APK
+<p> Download the APK
+Install the APK <p>
 
 - Register
-Open Journey Applications
-Register your email address
+<p> Open Journey Applications
+Register your email address <p>
 
 - Screenshot
 
