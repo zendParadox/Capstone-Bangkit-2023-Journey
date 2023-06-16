@@ -74,6 +74,12 @@ Register your email address <p>
 
 - Screenshot
 
+# Project Architecture
+
+<a href='https://www.linkpicture.com/view.php?img=LPic648c32812751d1052550205'><img src='https://www.linkpicture.com/q/project-architecture.jpg' type='image'></a>
+
+# Backend Techstack
+<a href='https://www.linkpicture.com/view.php?img=LPic648c328b34b881357147923'><img src='https://www.linkpicture.com/q/project-architecture-1.jpg' type='image'></a>
 
 # Documentation
 You can find our relevant documentation at the following link:
@@ -86,3 +92,14 @@ You can find our relevant documentation at the following link:
 
 ## Mobile Development 
 - [Mobile Development Documentation](https://github.com/novandi18/journey-md)
+
+# Contact
+
+| Name                   | Contact                                                                                                                                                                                                                                                                                         |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Novandi Ramadhan     | <a href="https://www.linkedin.com/in/novandi-ramadhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:novandiramadhan80@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>         |
+| Arif Rizqi    | <a href="https://www.linkedin.com/in/arif-rizqi-58543221a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:arifrizqy.ar15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> |
+| Toriq Zuhud Nurcahyo          | <a href="https://www.linkedin.com/in/toriq-zuhud-nurcahyo-8703a8158/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:toriqzuhudnurcahyo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>                       |
+| Husna Salsabila        | <a href="https://www.linkedin.com/in/husna-salsabila/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:hsnsalsabilaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>                    |
+| Richard Nelson Gunawan   | <a href="https://www.linkedin.com/in/richard-nelson-gunawan-19a9011b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:richardnelsongunawan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>                |
+| Rafli Ramadhani | <a href="https://www.linkedin.com/in/rafliramadhanii/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:raflirama7446@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>                       |
