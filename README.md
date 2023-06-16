@@ -55,16 +55,18 @@
 
 <p>Journey, our mobile application-based platform aims to improve job opportunities for people with disabilities in Indonesia. It will include an accessible, easy-to-use platform of job seekers and employers, use smart algorithms to match candidates with suitable jobs.</p>
 
+<p>Journey prioritize inclusivity, user experience, and continuous improvement. Engage with stakeholders, involve individuals with disabilities in the development process, and collaborate with disability advocates to ensure the platform meets the needs of its target audience.</p>
+
 <br>
 
 # Documentation
 You can find our relevant documentation at the following link:
 
 ## Machine Learning 
-- [Machine Learning Documentation](https://github.com/zendParadox/journey-ml/tree/main)
+- [Machine Learning Documentation](https://github.com/zendParadox/journey-ml)
 
 ## Cloud Computing 
-- [Cloud Computing Documentation](https://github.com/zendParadox/journey-ml/tree/main)
+- [Cloud Computing Documentation](https://github.com/arifrizqi/journey-api)
 
 ## Mobile Development 
-- [Mobile Development Documentation](https://github.com/zendParadox/journey-ml/tree/main)
+- [Mobile Development Documentation](https://github.com/novandi18/journey-md)
